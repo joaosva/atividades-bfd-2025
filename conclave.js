@@ -2,7 +2,7 @@ const entrada = require("prompt-sync")({ sigint: false });
 
 console.log("=== Eleição do Papa ===");
 
-// Contadores de votos (sem vetor, cada um separado)
+// Contadores de votos 
 let votosJoao = 0;
 let votosJones = 0;
 let votosPablo = 0;
